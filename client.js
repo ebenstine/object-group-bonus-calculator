@@ -30,6 +30,17 @@ const employees = [
     reviewRating: 1
   }
 ];
+function determineEmployeeBonus(employee){
+  for (let i = 0; i < employees.length; i ++){
+    let employeeBonusInfo = {
+      name: 'name',
+      bonusPercentage: 'bonus percentage',
+      totalCompensation: 'total compensation',
+      totalBonus: 'total bonus'
+    }
+
+  }
+}
 
 // YOU SHOULD NOT NEED TO CHANGE ANYTHING ABOVE THIS POINT
 
